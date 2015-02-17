@@ -9,6 +9,6 @@ interface storer
 	function integerPropertyHasValue(property $property, property\integer $integer);
 	function floatPropertyHasValue(property $property, property\float $float);
 	function booleanPropertyHasValue(property $property, property\boolean $boolean);
-	function storablePropertyHasValue(property $property, property\storable $storable);
+	function storablePropertyHasValue(property $property, storable $storable);
 	function nullProperty(property $property);
 }
