@@ -1,0 +1,38 @@
+{
+	"name": "estvoyage/object",
+	"type": "library",
+	"description": "Tools to manipulate object",
+	"keywords": [ "object", "East" ],
+	"homepage": "http://github.com/estvoyage/object",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Frédéric Hardy",
+			"email": "frederic.hardy@mageekbox.net",
+			"homepage": "http://blog.mageekbox.net"
+		}
+	],
+	"require": {
+		"php": ">=5.5.0",
+		"estvoyage/value": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/mageekguy/atoum.git"
+		}
+	],
+	"require-dev": {
+		"mageekguy/atoum": "dev-master"
+	},
+	"autoload": {
+		"psr-4": {
+			"estvoyage\\object\\": "classes"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"estvoyage\\object\\tests\\units\\": "tests/units"
+		}
+	}
+}
