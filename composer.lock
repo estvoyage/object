@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "19787cb9156f4f865f7526540cb5e08b",
+    "hash": "9211f6cb7508155347f035c9d1217482",
     "packages": [
         {
             "name": "estvoyage/value",

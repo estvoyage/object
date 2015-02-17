@@ -1,7 +1,7 @@
 {
 	"name": "estvoyage/object",
 	"type": "library",
-	"description": "Tools to manipulate object",
+	"description": "Interfaces and classes to manipulate class instance",
 	"keywords": [ "object", "East" ],
 	"homepage": "http://github.com/estvoyage/object",
 	"license": "BSD",
