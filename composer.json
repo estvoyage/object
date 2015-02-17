@@ -14,7 +14,7 @@
 	],
 	"require": {
 		"php": ">=5.5.0",
-		"estvoyage/value": "dev-master"
+		"estvoyage/value": "@dev"
 	},
 	"repositories": [
 		{
@@ -23,7 +23,7 @@
 		}
 	],
 	"require-dev": {
-		"mageekguy/atoum": "dev-master"
+		"mageekguy/atoum": "@dev"
 	},
 	"autoload": {
 		"psr-4": {
