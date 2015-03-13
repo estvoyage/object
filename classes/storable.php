@@ -4,5 +4,5 @@ namespace estvoyage\object;
 
 interface storable
 {
-	function storerIsReady(storer $storer);
+	function objectStorerIs(storer $storer);
 }
